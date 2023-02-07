@@ -1,5 +1,5 @@
 # Capacitor Asset Test
-This is a test repo for running []`@capacitor/assets`](https://github.com/ionic-team/capacitor-assets).
+This is a test repo for running [`@capacitor/assets`](https://github.com/ionic-team/capacitor-assets).
 
 Run: 
 - `npm install`
