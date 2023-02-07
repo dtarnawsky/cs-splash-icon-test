@@ -10,7 +10,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "lint": "ng lint",
-    "assets": "npx capacitor-assets generate --iconBackgroundColor '#333' --iconBackgroundColorDark '#333' --splashBackgroundColor '#333' --splashBackgroundColorDark '#333'"
+    "assets": "npx capacitor-assets generate"
   },
   "private": true,
   "dependencies": {
